@@ -1,0 +1,1 @@
+replace token address and Nft contract address in "./src/component/template/header.js"
